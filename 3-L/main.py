@@ -4,6 +4,9 @@ from repo.reports_generator import ReportsGenerator
 from repo.reports.markdown_generator import MarkdownGenerator
 from repo.reports.html_generator import HTMLGenerator
 
+from models.member import Member
+from models.manager import Manager
+
 if __name__ == '__main__':
     username = 'erickmacena1'
     response = GithubClient.get_repos_by_user(username)
@@ -17,3 +20,9 @@ if __name__ == '__main__':
         print(markdown_report)
     else:
         print(response['body'])
+
+    member = Member('jao', 'jao@gmail.com')
+    manager = Manager('gerente', 'gerente@gmail.com')
+
+    print(member.members())
+    print(manager.members())
