@@ -7,3 +7,9 @@ class Member(User):
     @staticmethod
     def members():
         return ['user1','user2','user3']
+
+    def pay_bill(self):
+        pass
+    
+    def code(self):
+        return "Coding..."

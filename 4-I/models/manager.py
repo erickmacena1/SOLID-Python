@@ -7,3 +7,9 @@ class Manager(User):
     @staticmethod
     def members():
         raise Exception('Pode nao man')
+
+    def pay_bill(self):
+        return "Paying bills..."
+        
+    def code(self):
+        pass
