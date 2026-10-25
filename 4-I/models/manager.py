@@ -8,8 +8,5 @@ class Manager(User):
     def members():
         raise Exception('Pode nao man')
 
-    def pay_bill(self):
+    def work(self):
         return "Paying bills..."
-        
-    def code(self):
-        pass

@@ -25,3 +25,6 @@ if __name__ == '__main__':
     manager = Manager('gerente', 'gerente@gmail.com')
 
     print(member.members())
+
+    print(member.work())
+    print(manager.work())
