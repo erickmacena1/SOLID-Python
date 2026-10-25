@@ -1,0 +1,31 @@
+## REPOS 
+
+**ID:** 528994722 **NAME:** alura-organo **STARTS:** 0
+ **ID:** 408185276 **NAME:** app-ideas **STARTS:** 0
+ **ID:** 393788409 **NAME:** Blogeek-fork **STARTS:** 0
+ **ID:** 277001633 **NAME:** certificado **STARTS:** 0
+ **ID:** 356099021 **NAME:** custom-audio-player **STARTS:** 0
+ **ID:** 414996724 **NAME:** desafio **STARTS:** 0
+ **ID:** 401712658 **NAME:** erickmacena1 **STARTS:** 0
+ **ID:** 315823812 **NAME:** EstruturaDados **STARTS:** 0
+ **ID:** 973243637 **NAME:** financas **STARTS:** 1
+ **ID:** 1022766366 **NAME:** froglake **STARTS:** 0
+ **ID:** 1355243279 **NAME:** gaby-aniversario-2026 **STARTS:** 0
+ **ID:** 236393004 **NAME:** Introduction-to-Computing-Project **STARTS:** 0
+ **ID:** 1344061275 **NAME:** lua-love2d-getting-started **STARTS:** 0
+ **ID:** 399268600 **NAME:** mural-de-avisos **STARTS:** 0
+ **ID:** 301843389 **NAME:** My-Courses **STARTS:** 0
+ **ID:** 418883405 **NAME:** nlw-heat **STARTS:** 0
+ **ID:** 408634191 **NAME:** pomodoro **STARTS:** 0
+ **ID:** 319472509 **NAME:** Projeto_Criptografia **STARTS:** 0
+ **ID:** 364332277 **NAME:** python-snake **STARTS:** 0
+ **ID:** 416104858 **NAME:** ragnarok-store **STARTS:** 1
+ **ID:** 400158143 **NAME:** react-todo **STARTS:** 1
+ **ID:** 364727037 **NAME:** redes1 **STARTS:** 0
+ **ID:** 363527323 **NAME:** Restaurante **STARTS:** 0
+ **ID:** 496380177 **NAME:** shopping-buddy **STARTS:** 0
+ **ID:** 348140502 **NAME:** simple-to-do **STARTS:** 0
+ **ID:** 1391450825 **NAME:** SOLID-Python **STARTS:** 0
+ **ID:** 399634379 **NAME:** spotify-to-youtube **STARTS:** 0
+ **ID:** 395378549 **NAME:** t3-business-card-1 **STARTS:** 0
+ **ID:** 313062597 **NAME:** Web-Developer-Experience **STARTS:** 0
